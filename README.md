@@ -84,4 +84,4 @@ SELECT * FROM students ORDER BY student_id;
 
 Video
 
-Video link not added yet
+https://youtu.be/YXlqf66yitk
