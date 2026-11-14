@@ -1,6 +1,7 @@
 COMP 3005 Assignment 3 Question 1
 
 Ryushen Tan
+Student number 101269064
 
 I used Python and PostgreSQL to add show update and delete students
 
